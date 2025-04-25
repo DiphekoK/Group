@@ -40,9 +40,7 @@ The database includes the following tables:
 ## 🚀 Submission Details
 - Final ERD (Entity-Relationship Diagram): Uploaded as a file (`ecommerce-erd.png` or similar).
 - SQL File (`ecommerce.sql`): Contains all CREATE TABLE statements and relevant constraints.
-- Repository Link: [GitHub Repository](https://github.com/https://github.com/DiphekoK/Group.git)
-- Ensure all files are accessible to the reviewer for validation.
-
+  
 ---
 
 ## 🛠 Tools Used
