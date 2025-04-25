@@ -37,14 +37,6 @@ The database includes the following tables:
 
 ---
 
-## 🧑‍🤝‍🧑 Collaboration Guidelines
-- Stay connected through regular meetings and discussions.
-- Use GitHub for version control, documentation, and teamwork.
-- Share updates, track progress, and troubleshoot together.
-- Ensure all team members understand every part of the database design.
-
----
-
 ## 🚀 Submission Details
 - Final ERD (Entity-Relationship Diagram): Uploaded as a file (`ecommerce-erd.png` or similar).
 - SQL File (`ecommerce.sql`): Contains all CREATE TABLE statements and relevant constraints.
@@ -54,7 +46,7 @@ The database includes the following tables:
 ---
 
 ## 🛠 Tools Used
-- **Diagram Tools**: Lucidchart, draw.io, dbdiagram.io, or MySQL Workbench.
+- **Diagram Tools**: MySQL Workbench.
 - **Development Tools**: MySQL for database implementation.
 - **Collaboration Tools**: GitHub for team contributions and version control.
 
@@ -71,4 +63,3 @@ Special thanks to all team members for their hard work and collaboration! 💪�
 
 ---
 
-### Happy Coding! 💻✨
